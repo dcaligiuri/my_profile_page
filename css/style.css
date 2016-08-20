@@ -1,0 +1,81 @@
+.navbar-custom {
+    background-color: lightblue;
+    color:#ffffff;
+    border-radius:0;
+    height: 75px;
+}
+
+.btn-secondary {
+  margin-top : 15px;
+}
+
+
+.contact-me {
+  background-color: lightblue;
+}
+
+
+
+#body {
+  background-color : gray;
+}
+
+.col-lg-8{
+  background-color : #F0F8FF;
+}
+
+#portfolio {
+  background-color : aliceblue;
+}
+
+.contact-me {
+  background-color : aliceblue;
+}
+
+
+name {
+   height:75px;
+   width: 450px;
+   font-size:100pt;
+  
+}
+
+#message{
+  height:300px;
+}
+
+
+[type="text"] {
+    font-size:30px;
+}
+
+
+input {
+    border-style: solid;
+    border-top : 0;
+    border-left : 0;
+    border-right : 0;
+    border-color : darkgray;
+    background-color: #F8F8FF;
+}
+
+input:focus {outline:none;}
+
+
+input[type=text] {
+    background-color: aliceblue;
+    color : gray; 
+}
+
+.gray {
+  color : gray;
+}
+
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 7px 11px;
+  font-size: 30px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
