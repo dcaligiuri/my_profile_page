@@ -5,6 +5,14 @@
     height: 75px;
 }
 
+#headline {
+	margin-top : 10px;
+}
+
+.img-center {
+	margin:0 auto;
+}
+
 .btn-secondary {
   margin-top : 15px;
 }
